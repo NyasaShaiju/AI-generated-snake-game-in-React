@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Neon Snake & Synth",
+  "description": "A retro-futuristic Snake game coupled with a procedural AI-simulated music player using the Web Audio API.",
+  "requestFramePermissions": []
+}
